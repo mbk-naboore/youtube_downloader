@@ -4,8 +4,8 @@
 
 
 **Dependencies:**
-*pytube -> pip install pytube / pip3 install pytube.
-*ffmpeg -> https://ffmpeg.org/download.html
+1) pytube -> pip install pytube / pip3 install pytube.
+2) ffmpeg -> https://ffmpeg.org/download.html.
 
 
 -----------------------------------------------------------------------------------------------------------------------
