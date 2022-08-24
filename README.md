@@ -3,6 +3,11 @@
 
 
 
+**Dependencies:**
+pytube -> pip install pytube / pip3 install pytube
+ffmpeg -> https://ffmpeg.org/download.html
+
+
 
 **this code will download the files to a file that will be created on your desktop called (all_youtube_downloaded_video) so you will have all the downloaded videos in one directory.
 
